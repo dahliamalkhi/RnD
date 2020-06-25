@@ -43,4 +43,3 @@
 *
 -   "*From Byzantine Agreement to Practical Survivability",* at *[RCDS 2002](http://www.jaist.ac.jp/~defago/RCDS_2002/)*
 
-* * * * *
