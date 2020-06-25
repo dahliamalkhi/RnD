@@ -13,7 +13,7 @@ Kfir Lev-Ari, Alexander Spiegelman, Idit Keidar and Dahlia Malkhi. OPODIS 2019, 
 Ittai Abraham, Dahlia Malkhi, Kartik Nayak, Ling Ren, Maofan Yin. 
 IEEE Security and Privacy 2020 [SyncHotStuff-SP2020] [short S&P 2020 video].
 (see also https://eprint.iacr.org/2019/270 ).
-*_ Scalable and Efficient Data Authentication for Decentralized Systems_.
+* _Scalable and Efficient Data Authentication for Decentralized Systems_.
 Soujanya Ponnapalli, Aashaka Shah, Amy Tai, Souvik Banerjee, Vijay Chidambaram, Dahlia Malkhi, Michael Wei. [https://arxiv.org/abs/1909.11590]
 * _Bootstrapping Consensus Without Trusted Setup: Fully Asynchronous Distributed Key Generation_.
 Eleftherios Kokoris-Kogias, Alexander Spiegelman, Dahlia Malkhi and Ittai Abraham. [https://eprint.iacr.org/2019/1015]
