@@ -4,7 +4,7 @@
     -   at [ITA 2020](https://ita.ucsd.edu/ws/schedule2020/#d_5), 
     -   at [FAB'20](https://scfab.github.io/2020/index.html),
     -   at [TPBC'20](https://eventum.upf.edu/51585/detail/theory-and-practice-of-blockchains-online-weekly-seminar-series-.html), [[video]](https://www.youtube.com/watch?v=S9oPB9j-UZU&feature=youtu.be)
-   -   at [DSN'20](https://dsn2020.webs.upv.es/final-program/keynotes/)
+    -   at [DSN'20](https://dsn2020.webs.upv.es/final-program/keynotes/)
 -   "New Approaches in BFT", [Chicago booth Cryptocurrencies and Blockchains Conference](https://bfi.uchicago.edu/event/cryptocurrencies-and-blockchains-conference/)
 -   "Byzantine Fault Tolerance meets Flexibility", [Richard M. Karp Distinguished Lecture](https://simons.berkeley.edu/rmklectures2019-fall-3), November 2019
 -   "Beyond Classical BFT Approaches", [CES 2019](https://cryptoeconomicsystems.pubpub.org/)
